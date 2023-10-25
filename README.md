@@ -10,4 +10,4 @@ Tutorial on YouTube!
 
 ## Local Development 
 
-1. Open
+1. Open!
